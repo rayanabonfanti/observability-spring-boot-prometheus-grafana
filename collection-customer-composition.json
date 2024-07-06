@@ -1,0 +1,28 @@
+[{
+    "customerId": 1,
+    "customerFullName": "Rayana Rbeiro Bonfanti",
+    "customerEmail": "rayanabonfanti@gmail.com",
+    "customerUserName": "rayana",
+    "customerPassword": "1234",
+    "address": {
+        "addressId": 1,
+        "street": "123 Main St",
+        "city": "Exampleville",
+        "state": "CA",
+        "zipCode": 12345
+    }
+},
+{
+    "customerId": 2,
+    "customerFullName": "Ana Bia Moreira",
+    "customerEmail": "anabia@gmail.com",
+    "customerUserName": "ana",
+    "customerPassword": "789",
+    "address": {
+        "addressId": 2,
+        "street": "789 Main St",
+        "city": "Exampleville",
+        "state": "CA",
+        "zipCode": 78945
+    }
+}]
